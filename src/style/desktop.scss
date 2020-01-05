@@ -1,0 +1,7 @@
+.content{
+	&__view{
+		
+	justify-content: space-between;
+	&:after{ content: ''; margin-right: 32.5%; }
+	}
+}
